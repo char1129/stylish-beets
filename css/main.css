@@ -2,9 +2,26 @@ html{
   background-color: #c9b5ab;
 }
 
-h1, h2, nav {
+h1, h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #8f2440;
+  fony-size: 1rem;
+}
+  nav {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   font-size: 1rem;
+  color: #8f2440;
   line-height: 1.5;
+}
+
+nav {
+  nav il {
+  list-style-type: none;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
 }
