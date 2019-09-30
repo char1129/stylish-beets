@@ -31,3 +31,7 @@ nav a {
   text-decoration: none;
   font-weight: bold;
 }
+
+figcaption {
+  text-align: center;
+}
