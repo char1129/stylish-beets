@@ -1,4 +1,10 @@
-nav {
+html{
+  background-color: #c9b5ab;
+}
+
+h1, h2, nav {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
+  font-size: 1rem;
+  line-height: 1.5;
 }
