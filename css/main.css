@@ -1,5 +1,6 @@
 html{
   background-color: #c9b5ab;
+  font-family: "PT Serif", serif;
 }
 
 h1, h2 {
@@ -32,6 +33,11 @@ nav a {
   font-weight: bold;
 }
 
+img {
+  width: 100%;
+}
+
 figcaption {
   text-align: center;
+  font-style: italic;
 }
