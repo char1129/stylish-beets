@@ -8,7 +8,8 @@ h1, h2 {
   color: #8f2440;
   fony-size: 1rem;
 }
-  nav {
+
+nav {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   font-size: 1rem;
@@ -16,8 +17,7 @@ h1, h2 {
   line-height: 1.5;
 }
 
-nav {
-  nav il {
+nav il {
   list-style-type: none;
 }
 
