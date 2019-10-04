@@ -1,8 +1,21 @@
 html{
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
-  font-weight: 200;
+  font-weight: lighter;
   font-size: .75rem;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+.germination {
+  font-weight: 600;
 }
 
 h1, h2 {
@@ -38,19 +51,6 @@ a, {
 
 a:hover {
   color: #8f2440;
-}
-
-img {
-  width: 100%;
-}
-
-.germination {
-  font-weight: 600;
-}
-
-figcaption {
-  text-align: center;
-  font-style: italic;
 }
 
 .chris {
