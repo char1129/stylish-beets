@@ -23,7 +23,6 @@ nav {
 
 nav li {
   list-style-type: none;
-  text-decoration: none;
 }
 
 nav a {
@@ -32,7 +31,11 @@ nav a {
   font-weight: bold;
 }
 
-a, a:hover {
+a, {
+  text-decoration: none;
+}
+
+a:hover {
 color: #8f2440;
 }
 img {
