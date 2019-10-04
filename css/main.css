@@ -54,7 +54,7 @@ a:hover {
   text-decoration: underline;
 }
 
-li {
+.common{
   list-style-type: lower-greek;
 }
 
