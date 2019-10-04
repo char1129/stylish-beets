@@ -50,7 +50,7 @@ figcaption {
 
 .chris {
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: lighter;
 }
 
@@ -67,11 +67,15 @@ h1, h2 {
 
 .common {
   list-style-type: lower-greek;
-  font-size: .8rem;
+  font-size: 1rem;
 }
 
 dt {
   font-weight: bold;
+}
+
+.serving {
+  font-style: italic;
 }
 
 .tags {
