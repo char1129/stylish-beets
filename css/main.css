@@ -46,6 +46,7 @@ nav a {
 
 a {
   text-decoration: none;
+  color: #8f2440;
 }
 
 a:hover {
@@ -62,7 +63,7 @@ dt {
   font-size: 1.5rem;
 }
 
-cite {
+.pratt {
   font-size: .8rem;
 }
 
