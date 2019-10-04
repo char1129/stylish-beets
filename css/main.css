@@ -41,10 +41,21 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
+  font-weight: lighter;
 }
 
 .germination {
   font-weight: 600;
+}
+
+.chris {
+  font-style: italic;
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+
+.pratt {
+  font-size: .8rem;
 }
 
 h1, h2 {
@@ -56,20 +67,11 @@ h1, h2 {
 
 .common {
   list-style-type: lower-greek;
+  font-size: .8rem;
 }
 
 dt {
   font-weight: bold;
-}
-
-.chris {
-  font-style: italic;
-  font-size: 1.5rem;
-  font-weight: lighter;
-}
-
-.pratt {
-  font-size: .8rem;
 }
 
 .tags {
