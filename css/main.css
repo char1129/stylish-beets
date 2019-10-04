@@ -53,6 +53,10 @@ a:hover {
   color: #8f2440;
 }
 
+dt {
+  font-weight: bold;
+}
+
 .chris {
   font-style: italic;
   font-size: 1.5rem;
