@@ -49,8 +49,8 @@ a {
 }
 
 a:hover {
-  color: #8f2440;
-  text-decoration: none;
+  color: #3f1622;
+  text-decoration: underline;
 }
 
 dt {
@@ -63,5 +63,5 @@ dt {
 }
 
 .tags {
-font-size: 0.8rem;
+  font-size: .8rem;
 }
