@@ -16,13 +16,14 @@ h1, h2 {
 nav {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1.25rem;
   color: #8f2440;
   line-height: 1.5;
 }
 
 nav li {
   list-style-type: none;
+  text-decoration: none;
 }
 
 nav a {
@@ -36,19 +37,20 @@ a, {
 }
 
 a:hover {
-color: #8f2440;
+  color: #8f2440;
 }
+
 img {
   width: 100%;
+}
+
+.germination {
+  font-weight: 600;
 }
 
 figcaption {
   text-align: center;
   font-style: italic;
-}
-
-.germination {
-  font-weight: 600;
 }
 
 .chris {
