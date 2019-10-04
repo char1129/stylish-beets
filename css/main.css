@@ -54,6 +54,10 @@ a:hover {
   text-decoration: underline;
 }
 
+li {
+  list-style-type: lower-greek;
+}
+
 dt {
   font-weight: bold;
 }
@@ -69,4 +73,5 @@ dt {
 
 .tags {
   font-size: .8rem;
+  list-style-type: circle;
 }
