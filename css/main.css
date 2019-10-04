@@ -5,30 +5,10 @@ html {
   font-size: 1rem;
 }
 
-img {
-  width: 100%;
-}
-
-figcaption {
-  text-align: center;
-  font-style: italic;
-}
-
-.germination {
-  font-weight: 600;
-}
-
-h1, h2 {
-  font-weight: bolder;
-  font-family: "PT Sans", sans-serif;
-  color: #3f1622;
-  font-size: 1.5rem;
-}
-
 nav {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: #8f2440;
   line-height: 1.5;
 }
@@ -52,6 +32,26 @@ a {
 a:hover {
   color: #3f1622;
   text-decoration: underline;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+.germination {
+  font-weight: 600;
+}
+
+h1, h2 {
+  font-weight: bolder;
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-size: 1.5rem;
 }
 
 .common {
