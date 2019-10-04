@@ -32,6 +32,9 @@ nav a {
   font-weight: bold;
 }
 
+a, a:hover {
+color: #8f2440;
+}
 img {
   width: 100%;
 }
@@ -41,8 +44,12 @@ figcaption {
   font-style: italic;
 }
 
+.germination {
+  font-weight: 600;
+}
+
 .chris {
   font-style: italic;
-  font-size: 2rem;
+  font-size: 1.5rem;
 
 }
