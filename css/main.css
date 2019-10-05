@@ -42,6 +42,7 @@ figcaption {
   text-align: center;
   font-style: italic;
   font-weight: lighter;
+  line-height: .125rem;
 }
 
 .germination {
