@@ -48,6 +48,10 @@ figcaption {
   font-weight: 600;
 }
 
+.fact {
+  line-height: 1.5rem;
+}
+
 .chris {
   font-style: italic;
   font-size: 1.125rem;
