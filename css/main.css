@@ -55,8 +55,8 @@ figcaption {
 .chris {
   font-family: "PT Serif", serif;
   font-style: italic;
-  font-weight: lightest;
-  font-size: 2rem;
+  font-weight: lighter;
+  font-size: 2em;
 }
 
 .pratt {
@@ -78,6 +78,7 @@ h1, h2 {
 
 dt {
   font-weight: bold;
+  line-height: 1.5rem;
 }
 
 .serving {
