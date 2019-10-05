@@ -53,9 +53,9 @@ figcaption {
 }
 
 .chris {
-  font-family: "PT Sans", sans-serif, 400;
+  font-family: "PT Sans", sans-serif;
   font-style: italic;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 2rem;
 }
 
