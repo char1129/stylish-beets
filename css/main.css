@@ -41,7 +41,6 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-weight: lighter;
   line-height: .125rem;
 }
 
@@ -54,9 +53,10 @@ figcaption {
 }
 
 .chris {
+  font-family: "PT Sans", sans-serif, 400i;
   font-style: italic;
+  font-weight: normal;
   font-size: 2rem;
-  font-weight: lighter;
 }
 
 .pratt {
