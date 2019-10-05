@@ -72,6 +72,7 @@ h1, h2 {
 .common {
   list-style-type: lower-greek;
   font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 dt {
