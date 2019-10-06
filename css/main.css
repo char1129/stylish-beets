@@ -27,7 +27,7 @@ h1, h2 {
   color: #3f1622;
 }
 
-a {
+nav a {
   color: #8f2440;
   text-decoration: none;
 }
@@ -82,7 +82,12 @@ dt {
   list-style-type: circle;
 }
 
-a.hover {
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
   color: #8f2440;
   text-decoration: underline;
 }
