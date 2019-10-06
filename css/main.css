@@ -3,7 +3,7 @@ html {
   font-family: "PT Serif", serif;
   font-weight: normal;
   font-size: 1rem;
-  line-height: 0.8rem;
+  line-height: .8rem;
 }
 
 img {
@@ -49,6 +49,7 @@ figcaption {
 
 .germination {
   font-weight: 600;
+  font-size: 1.125rem;
 }
 
 .fact {
