@@ -3,13 +3,22 @@ html {
   font-family: "PT Serif", serif;
   font-weight: normal;
   font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 img {
   width: 100%;
 }
 
-nav, h1, h2 {
+h1 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+  line-height: 1.5rem;
+}
+
+nav, h2 {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   font-size: 1.125rem;
@@ -20,11 +29,6 @@ nav, h1, h2 {
 nav li {
   list-style-type: none;
   text-decoration: none;
-}
-
-h1, h2 {
-  font-size: 1.5rem;
-  color: #3f1622;
 }
 
 nav a {
@@ -51,6 +55,7 @@ figcaption {
   line-height: 1.5rem;
   text-align: justify;
 }
+
 .chris {
   font-style: italic;
   font-weight: lighter;
