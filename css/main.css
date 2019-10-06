@@ -3,7 +3,7 @@ html {
   font-family: "PT Serif", serif;
   font-weight: normal;
   font-size: 1rem;
-  line-height: 1.5rem;
+  line-height: 0.8rem;
 }
 
 img {
@@ -70,7 +70,7 @@ figcaption {
 .common {
   list-style-type: lower-greek;
   font-size: 1rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
 }
 
 .serving {
@@ -79,12 +79,13 @@ figcaption {
 
 dt {
   font-weight: bold;
-  line-height: 1.5rem;
+  line-height: 2rem;
 }
 
 .tags {
   font-size: .8rem;
   list-style-type: circle;
+  line-height: 1.125rem;
 }
 
 a {
